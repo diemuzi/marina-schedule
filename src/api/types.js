@@ -1,0 +1,16 @@
+export const AUTH_PROFILE = 'AUTH_PROFILE';
+export const AUTH_REMOVE_TOKEN = 'AUTH_REMOVE_TOKEN';
+export const AUTH_SET_TOKEN = 'AUTH_SET_TOKEN';
+
+export const FORM_ARRAY = 'FORM_ARRAY';
+export const FORM_CHOICES = 'FORM_CHOICES';
+export const FORM_CLEAN = 'FORM_CLEAN';
+export const FORM_DELETE = 'FORM_DELETE';
+export const FORM_ERRORS = 'FORM_ERRORS';
+export const FORM_NON_FIELD_ERROR = 'FORM_NON_FIELD_ERROR';
+export const FORM_OBJECT = 'FORM_OBJECT';
+export const FORM_SUCCESS = 'FORM_SUCCESS';
+export const FORM_VALIDATION = 'FORM_VALIDATION';
+
+export const SCHEDULE_BASE = 'SCHEDULE_BASE';
+export const SCHEDULE_DOWNLOAD = 'SCHEDULE_DOWNLOAD';
